@@ -7,3 +7,4 @@
 @Motto:咕咕嘎嘎
 """
 from PIL import Image
+print("hello github")
